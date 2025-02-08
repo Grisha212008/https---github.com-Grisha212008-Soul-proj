@@ -1,4 +1,5 @@
 from random import randint
+import pygame
 
 print("Вы оказались в странном подвале, где сидят несколько героев: маг,  рыцарь и паладин") 
 while True:
