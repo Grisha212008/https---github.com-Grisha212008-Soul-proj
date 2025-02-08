@@ -46,3 +46,6 @@ class Enemy:
 # Записываем в переменную, чтобы было удобно.
 e = Enemy()
 print ('xnj pf gjyjc')
+
+
+
